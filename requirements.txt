@@ -1,0 +1,12 @@
+# LOG
+coloredlogs==14.0
+python-json-logger==0.1.11
+
+# ASCII ART
+pyfiglet==0.7
+termcolor==1.1.0
+colorama==0.4.3
+
+# GUI CROSS PLATAFORM - KEYBOARD - OTHERS
+PyAutoGUI==0.9.50
+keyboard==0.13.5
