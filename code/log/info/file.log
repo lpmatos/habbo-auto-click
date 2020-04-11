@@ -1,0 +1,12 @@
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:18,447", "message": "Getting original location", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "run"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:19,878", "message": "Display information: (1920, 1080)", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\actions\\click.py", "funcName": "get_click_location"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:19,881", "message": "Selected target!", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\actions\\click.py", "funcName": "get_click_location"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:19,884", "message": "Mouse Position: (935, 959)", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:19,900", "message": "Eixo X: 935", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:19,914", "message": "Eixo Y: 959", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:19,916", "message": "Call - 1 click - delay 3.0 (s) - Coordinate  X: 935 - Y: 959...", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:35,042", "message": "Mouse Position: (935, 959)", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:35,046", "message": "Eixo X: 935", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:35,049", "message": "Eixo Y: 959", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "INFO", "asctime": "2020-04-11 19:10:35,052", "message": "Call - 2 click - delay 3.0 (s) - Coordinate  X: 935 - Y: 959...", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}
+{"levelname": "ERROR", "asctime": "2020-04-11 19:10:37,425", "message": "Keyboard Error", "pathname": "D:\\GitHub\\habbo-auto-click\\code\\runner\\run.py", "funcName": "apply_auto_click"}

@@ -87,7 +87,7 @@ Press CTRL + C once again to stop it.
 
 ## Description
 
-This is a simple Python script that perform a auto-click in your screen. Basically we perform this task in an infinite loop, until there is some intervention.
+Why do boring task, when u can auto click? This is a simple Python script that perform a auto-click in your screen. Basically we perform this task in an infinite loop, until there is some intervention.
 
 ![Alt text](docs/images/CODE.PNG?raw=true "Code")
 

@@ -25,7 +25,8 @@ class ClickLocation:
     try:
       print(INFO)
       keyboard.wait("x")
-      self.logger.info("Alvo selecionado!..")
+      self.logger.info(f"Display information: {self.get_screen_size()}")
+      self.logger.info("Selected target!")
       print()
       return Click(pyautogui.position()).serialize()
     except KeyboardInterrupt:

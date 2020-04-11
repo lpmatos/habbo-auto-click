@@ -35,7 +35,7 @@ class Log(OSystem, metaclass=SingletonLogger):
 
     def __init__(self, log_path: Text, log_file: Text, log_level: Text, logger_name: Text) -> NoReturn:
 
-        self._log_path = log_path if log_path else "log/info"
+        self._log_path = log_path if log_path else "./log/info"
         self._log_file = self.join_directory_with_file(self.log_path, log_file if log_file else "file.log")
 
         self._log_level = log_level if log_level in ["CRITICAL", "ERROR", "WARNING", "INFO", "DEBUG", "NOTSET"] else None

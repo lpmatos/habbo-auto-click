@@ -26,7 +26,7 @@ class Toast:
 
   def notification(self, title, message, *args, **kwargs) -> NoReturn:
     try:
-      self.toaster.show_toast(title, message, *args, **kwargs)
+      self.toaster.show_toast(title, message, duration=2, *args, **kwargs)
     except Exception as error:
       self.logger.error(f"Notification Exception = {error}")
 
