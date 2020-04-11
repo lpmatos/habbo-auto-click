@@ -71,7 +71,7 @@ This is a simple Python script that perform a auto-click in your screen. Basical
 
 When the application is started you receive a toast notifying.
 
-![Alt text](docs/images/CODE.PNG?raw=true "Toast")
+![Alt text](docs/images/TOAST.PNG?raw=true "Toast")
 
 ## Running pip
 
