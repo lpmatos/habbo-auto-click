@@ -2,16 +2,30 @@
 
 All important changes to this project will be added to this file! This changelog will be based on [Keep a change log](http://keepachangelog.com/)
 
-## 1.0.0 - [10-04-201]
+## 1.1.0 - [11-04-2020]
 
-* Criando estrutura básica do Projeto, com:
+* Create Toast class to sendo a notification when the program start.
+* Validate System Plataform.
+
+## 1.0.0 - [10-04-2020]
+
+* Base project Structure
   * Editorconfig.
   * Docs.
   * Changelog.
   * Readme.
   * Python Requirements.
   * Makefile.
-* O Makefile adicionado tem como objetivo automatizar algumas ações com o Python. Lembrando que o Makefile funciona apenas com o comando **make**. Portanto, é necessário você possuir ele instalado em sua máquina caso queira utilizar esses atalhos.
+* Makefile to automate some commands.
 * Create Singleton Logger.
 * Build CLI arguments.
 * Adding Handlers to witch Logger Context.
+* Features:
+  * Logger build with Singleton and Strategy Pattern.
+  * Arguments CLI.
+  * Configuration to get System environment variables.
+  * Actions Click.
+  * Client Click.
+  * Constants messages.
+  * OSystem Class.
+  * Axes and Coordinates Class.
