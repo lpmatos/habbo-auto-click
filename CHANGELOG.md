@@ -29,3 +29,4 @@ All important changes to this project will be added to this file! This changelog
   * Constants messages.
   * OSystem Class.
   * Axes and Coordinates Class.
+* Create run functions and Toast end.
