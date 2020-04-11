@@ -9,40 +9,40 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click">
     <img alt="Open Source" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/lpmatos/habbo-auto-click">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click">
-    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click">
+    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/lpmatos/habbo-auto-click">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click">
-    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click">
+    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/lpmatos/habbo-auto-click">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click/stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lpmatos/bobba-auto-click?style=social">
+  <a href="https://github.com/lpmatos/habbo-auto-click/stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lpmatos/habbo-auto-click?style=social">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click/commits/master">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click/commits/master">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/lpmatos/habbo-auto-click">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click">
-    <img alt="Repository Size" src="https://img.shields.io/github/repo-size/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click">
+    <img alt="Repository Size" src="https://img.shields.io/github/repo-size/lpmatos/habbo-auto-click">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click/issues">
-    <img alt="Repository Issues" src="https://img.shields.io/github/issues/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click/issues">
+    <img alt="Repository Issues" src="https://img.shields.io/github/issues/lpmatos/habbo-auto-click">
   </a>
 
-  <a href="https://github.com/lpmatos/bobba-auto-click/blob/master/LICENSE">
-    <img alt="MIT License" src="https://img.shields.io/github/license/lpmatos/bobba-auto-click">
+  <a href="https://github.com/lpmatos/habbo-auto-click/blob/master/LICENSE">
+    <img alt="MIT License" src="https://img.shields.io/github/license/lpmatos/habbo-auto-click">
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 To use this repository you need to make a **git clone**:
 
 ```bash
-git clone --depth 1 https://github.com/lpmatos/bobba-auto-click.git -b master
+git clone --depth 1 https://github.com/lpmatos/habbo-auto-click.git -b master
 ```
 
 Pull requests are welcome. If you'd like to support the work and buy me a ☕, I greatly appreciate it!
@@ -223,7 +223,7 @@ Hey!! If you like this project or if you find some bugs feel free to contact me 
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lpmatos"><img src="https://avatars2.githubusercontent.com/u/58797390?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Lucca Pessoa</b></sub></a><br /><a href="https://github.com/lpmatos/bobba-auto-click/commits?author=lpmatos" title="Code">💻</a></a></td>
+    <td align="center"><a href="https://github.com/lpmatos"><img src="https://avatars2.githubusercontent.com/u/58797390?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Lucca Pessoa</b></sub></a><br /><a href="https://github.com/lpmatos/habbo-auto-click/commits?author=lpmatos" title="Code">💻</a></a></td>
   <tr>
 </table>
 
@@ -231,7 +231,7 @@ Hey!! If you like this project or if you find some bugs feel free to contact me 
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lpmatos"><img src="https://avatars2.githubusercontent.com/u/58797390?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Lucca Pessoa</b></sub></a><br /><a href="https://github.com/lpmatos/bobba-auto-click/commits?author=lpmatos" title="Code">💻</a> <a href="#lpmatos" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/lpmatos"><img src="https://avatars2.githubusercontent.com/u/58797390?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Lucca Pessoa</b></sub></a><br /><a href="https://github.com/lpmatos/habbo-auto-click/commits?author=lpmatos" title="Code">💻</a> <a href="#lpmatos" title="Design">🎨</a></td>
   <tr>
 </table>
 
