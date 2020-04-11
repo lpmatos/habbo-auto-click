@@ -5,7 +5,7 @@
 <h1 align="center">🏨 Habbo Hotel CLI - Automate Auto Click 🏨</h1>
 
 <p align="center">
-  <strong>Python CLI to create an auto-click for Habbo Hotel</strong>
+  <strong>Python CLI Auto Click - Habbo Hotel</strong>
 </p>
 
 <p align="center">
