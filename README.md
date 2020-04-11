@@ -67,7 +67,7 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 
 This is a simple Python script that perform a auto-click in your screen. Basically we perform this task in an infinite loop, until there is some intervention.
 
-![Alt text](docs/images/CODE.png?raw=true "Code")
+![Alt text](docs/images/CODE.PNG?raw=true "Code")
 
 ## Running pip
 
@@ -169,7 +169,7 @@ Logically, a **Requirement File** is just a list of **pip** install arguments pl
 
 ## Params
 
-![Alt text](docs/images/USAGE.png?raw=true "Usage")
+![Alt text](docs/images/USAGE.PNG?raw=true "Usage")
 
 ## Link Reference
 
