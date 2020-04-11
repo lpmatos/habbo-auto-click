@@ -26,6 +26,7 @@ class ClickLocation:
       print(INFO)
       keyboard.wait("x")
       self.logger.info("Alvo selecionado!..")
+      print()
       return Click(pyautogui.position()).serialize()
     except KeyboardInterrupt:
       print(f"Keyboard Error")

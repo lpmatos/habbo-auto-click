@@ -55,14 +55,18 @@ if __name__ == "__main__":
   logger.info("Getting original location")
   position = ClickLocation(logger).get_click_location()[0]
 
+  contador = 1
+
   try:
     while(True):
       x, y = position[0], position[1]
       logger.info(f"Mouse Position: {position}")
       logger.info(f"Eixo X: {x}")
       logger.info(f"Eixo Y: {y}")
-      logger.info(f"Call click with {delay} delay and in {x} - {y}...")
+      logger.info(f"Call - {contador} - click with {delay} delay and in {x} - {y}...")
+      print()
       pyautogui.click(button="left", clicks=5, interval=delay, x=x, y=y)
+      contador += 1
       sys.stdout.flush()
   except KeyboardInterrupt:
     logger.error(f"Keyboard Error")
