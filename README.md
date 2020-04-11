@@ -63,6 +63,20 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 
 <a href="https://www.buymeacoffee.com/EatdMck" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 100px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+## Pre-Requisites
+
+To run this project you Need:
+
+- Python 3.
+- Windows 10 System.
+- Install all packages in requirements.txt.
+
+## Built with
+
+- Dev Tools
+  - [Python](https://www.python.org/)
+  - [Makefile](https://www.gnu.org/software/make/manual/make.html)
+
 ## Description
 
 This is a simple Python script that perform a auto-click in your screen. Basically we perform this task in an infinite loop, until there is some intervention.
