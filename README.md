@@ -65,7 +65,7 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 
 ## Pre-Requisites
 
-To run this project you Need:
+To run this project you yeed:
 
 - Python 3.
 - Windows 10 System.
