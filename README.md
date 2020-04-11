@@ -77,6 +77,14 @@ To run this project you yeed:
   - [Python](https://www.python.org/)
   - [Makefile](https://www.gnu.org/software/make/manual/make.html)
 
+## How to use it?
+
+1. Place your mouse where you want to auto-click.
+2. Press x.
+3. Profit.
+
+Press CTRL + C once again to stop it.
+
 ## Description
 
 This is a simple Python script that perform a auto-click in your screen. Basically we perform this task in an infinite loop, until there is some intervention.
