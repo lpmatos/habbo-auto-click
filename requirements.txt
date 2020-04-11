@@ -10,3 +10,6 @@ colorama==0.4.3
 # GUI CROSS PLATAFORM - KEYBOARD - OTHERS
 PyAutoGUI==0.9.50
 keyboard==0.13.5
+
+# TOAST
+win10toast==0.9

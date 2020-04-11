@@ -69,6 +69,10 @@ This is a simple Python script that perform a auto-click in your screen. Basical
 
 ![Alt text](docs/images/CODE.PNG?raw=true "Code")
 
+When the application is started you receive a toast notifying.
+
+![Alt text](docs/images/CODE.PNG?raw=true "Toast")
+
 ## Running pip
 
 The **pip** is a command line program. When you install **pip**, a **pip** command is added to your system, which can be run from the command prompt as follows:
@@ -174,6 +178,7 @@ Logically, a **Requirement File** is just a list of **pip** install arguments pl
 ## Link Reference
 
 * https://pyautogui.readthedocs.io/en/latest/
+* https://github.com/jithurjacob/Windows-10-Toast-Notifications
 
 ## 🎒 How to contribute
 

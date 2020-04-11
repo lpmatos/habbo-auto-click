@@ -6,8 +6,10 @@
 # IMPORTS
 # =============================================================================
 
+import sys
 from os import path, makedirs
 from typing import NoReturn, Text
+from constants.message import WINDOWS, NOT_WINDOWS
 
 # =============================================================================
 # CLASS - OSYSTEM
@@ -44,3 +46,11 @@ class OSystem:
       with open(file, mode="w"): pass
     except Exception as error:
       print(f"Error general exception create the file {file} - {error}")
+
+  @staticmethod
+  def check_system_plataform() -> NoReturn:
+    if sys.platform.startswith("win"):
+      print(WINDOWS)
+    else:
+      print(NOT_WINDOWS)
+      sys.exit()
