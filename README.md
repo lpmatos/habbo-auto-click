@@ -2,7 +2,7 @@
   <img alt="habbo" src="https://conteudo.imguol.com.br/blogs/311/files/2019/10/habbo_abre-615x300.jpg" width="250px" float="center"/>
 </p>
 
-<h1 align="center">🏨 Habbo Hotel CLI - Automate Auto Click 🏨</h1>
+<h1 align="center">🏨 Habbo Hotel - Auto Click 🏨</h1>
 
 <p align="center">
   <strong>Python CLI Auto Click - Habbo Hotel</strong>
@@ -53,11 +53,15 @@
 
 ## ▶️ Getting Started
 
-To use this repository you need to make a **git clone**:
+Starting with **git clone**:
 
 ```bash
 git clone --depth 1 https://github.com/lpmatos/habbo-auto-click.git -b master
 ```
+
+This will give access on your local machine to this project.
+
+## Buy me a coffee
 
 Pull requests are welcome. If you'd like to support the work and buy me a ☕, I greatly appreciate it!
 
@@ -65,7 +69,7 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 
 ## Pre-Requisites
 
-To run this project you yeed:
+To this project you yeed:
 
 - Python 3.
 - Windows 10 System.
@@ -77,17 +81,27 @@ To run this project you yeed:
   - [Python](https://www.python.org/)
   - [Makefile](https://www.gnu.org/software/make/manual/make.html)
 
+- Python Packages
+  - coloredlogs==14.0
+  - python-json-logger==0.1.11
+  - pyfiglet==0.7
+  - termcolor==1.1.0
+  - colorama==0.4.3
+  - PyAutoGUI==0.9.50
+  - keyboard==0.13.5
+  - win10toast==0.9
+
 ## How to use it?
 
 1. Place your mouse where you want to auto-click.
 2. Press x.
 3. Profit.
 
-Press CTRL + C once again to stop it.
+Press CTRL + C to stop it.
 
 ## Description
 
-Why do boring task, when u can auto click? This is a simple Python script that perform a auto-click in your screen. Basically we perform this task in an infinite loop, until there is some intervention.
+Why do boring task, when u can auto click? This is a simple Python script that perform a auto-click in your screen.
 
 ![Alt text](docs/images/CODE.PNG?raw=true "Code")
 

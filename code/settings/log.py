@@ -28,7 +28,7 @@ class SingletonLogger(type):
 # ==============================================================================
 # CLASS - LOG
 #
-# THIS CLASS HAVE A INHERITANCE WITH OSYSTEM CLASS
+# THIS CLASS HAVE A INHERITANCE WITH OSYSTEM CLASS AND SINGLETON LOGGER CLASS
 # ==============================================================================
 
 class Log(OSystem, metaclass=SingletonLogger):
@@ -46,12 +46,12 @@ class Log(OSystem, metaclass=SingletonLogger):
 
         self._check_if_log_path_and_log_file_exist()
 
-        self._logger = logging.getLogger(self._logger_name)
-        self._logger.setLevel(self._log_level)
+        self._logger = logging.getLogger(self.logger_name)
+        self._logger.setLevel(self.log_level)
 
-        self._base_configuration_to_log_colored()
+        self._base_configuration_log_colored()
 
-        self._logger.addHandler(ContextHandler(BaseFileHandler()).get_handler(self._log_file, self._log_level, self.formatter))
+        self._logger.addHandler(ContextHandler(BaseFileHandler()).get_handler(self.log_file, self.log_level, self.formatter))
 
     def _check_if_log_path_and_log_file_exist(self) -> NoReturn:
         if self.check_if_is_dir(self.log_path):
@@ -64,7 +64,7 @@ class Log(OSystem, metaclass=SingletonLogger):
             self.create_directory(self.log_path)
             self.create_file(self.log_file)
 
-    def _base_configuration_to_log_colored(self) -> coloredlogs.install:
+    def _base_configuration_log_colored(self) -> coloredlogs.install:
         coloredlogs.install(level=self._log_level,
                             logger=self.logger,
                             fmt=self.formatter,

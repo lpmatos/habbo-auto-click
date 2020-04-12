@@ -11,6 +11,8 @@ from utils.coordinates import Coordinates
 
 # ==============================================================================
 # CLASS CLICK
+#
+# THIS CLASS HAVE A INHERITANCE WITH COORDINATES CLASS
 # ==============================================================================
 
 class Click(Coordinates):
