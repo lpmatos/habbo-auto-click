@@ -1,7 +1,7 @@
 
 # -*- coding: utf-8 -*-
 
-"""Documentation file argparser.py."""
+"""Documentation file arguments.py."""
 
 # ==============================================================================
 # IMPORTS
